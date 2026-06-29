@@ -1,0 +1,8 @@
+{
+  "name": "FitLife",
+  "description": "Modern minimalist fitness and sports website with workouts, nutrition plans, calorie calculator, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
